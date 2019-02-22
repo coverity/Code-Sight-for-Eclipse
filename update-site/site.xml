@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- Copyright (c) 2019 Synopsys, Inc. All rights reserved worldwide. -->
-<site>
-   <feature url="features/com.synopsys.desktop.eclipse.feature_2019.1.0.jar"
-            id="com.synopsys.desktop.eclipse.feature" version="2019.1.0">
-      <category name="Synopsys Code Sight"/>
-   </feature>
-   <category-def name="Synopsys Code Sight" label="Synopsys Code Sight"/>
-</site>
