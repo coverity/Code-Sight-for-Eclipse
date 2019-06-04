@@ -9,9 +9,12 @@ The URL to use is the 'raw' version so it serves up files in raw form from:
 > https://github.com/coverity/Code-Sight-for-Eclipse/raw/master/update-site
 
 
-To update the update site in the future, move the current update-site to it's version with:
+To update the update site in the future, rm the current update-site and replace it with a new version:
 
-> % git mv update-site 2019.1.0
+> % git rm -r update-site
 
 
-Then upload the new update site as 'update-site'
+Then upload the new update site directory as 'update-site'
+
+Create a release on GitHub for this new version of Code Sight for Eclipse: 
+https://help.github.com/en/articles/creating-releases 
