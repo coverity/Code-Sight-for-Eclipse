@@ -8,7 +8,6 @@ The URL to use is the 'raw' version so it serves up files in raw form from:
 
 > https://github.com/coverity/Code-Sight-for-Eclipse/raw/master/update-site
 
-
 To update the update site in the future, rm the current update-site and replace it with a new version:
 
 > % git rm -r update-site
