@@ -14,7 +14,7 @@ To update the update site in the future, rm the current update-site and replace 
 > % git rm -r update-site
 
 
-Then upload the new update site directory as 'update-site'
+Then upload the new update site directory as 'update-site'.
 
 Create a release on GitHub for this new version of Code Sight for Eclipse: 
 https://help.github.com/en/articles/creating-releases 
