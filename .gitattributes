@@ -1,0 +1,1 @@
+update-site/plugins/com.codesight.thirdparty*.jar filter=lfs diff=lfs merge=lfs -text
